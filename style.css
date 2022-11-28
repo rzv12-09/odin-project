@@ -100,8 +100,40 @@ a {
   font-size: 36px;
   font-weight:1000;
   color: #1F2937;
-  margin-top: 30px;
+  margin-top: 40px;
   margin-bottom:20px;
 }
 
+.ptypes {
+  display: flex;
+  justify-content: center;
+  margin-left:100px;
+  margin-right:100px ;
+  margin-top:20px;
+  margin-bottom:100px ;
+  gap: 50px;
+  align-items: baseline;
+}
 
+.photo {
+  flex: 1 1 auto;
+  display:flex;
+  flex-flow:row wrap;
+  justify-content: stretch;
+  row-gap: 20px;
+  width:300px;
+
+}
+
+.timg {
+  width: 300px;
+  height: 210px;
+  border-radius:20px;
+}
+
+.text {
+  text-align: center;
+  width:300px;
+  color: #494d54;
+
+}
