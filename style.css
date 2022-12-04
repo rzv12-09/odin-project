@@ -201,5 +201,16 @@ a {
   font-size: 20px;
 }
 
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1F2937;
+  color: #E5E7EB;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-size:14px ;
+}
+
 
 
