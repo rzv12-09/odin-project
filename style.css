@@ -167,4 +167,39 @@ a {
   font-weight:lighter;
 }
 
+.callout {
+  display: flex;
+  margin: 100px 250px 100px 250px;
+  background-color: #3882F6;
+  color: #D9DAD8;
+  border-radius: 10px;
+  justify-content:space-between;
+  padding:70px 190px 70px 190px;
+  align-items: center;
+}
+
+.callright {
+  border:3px solid #E5E7EB;
+  padding:7px 38px 7px 38px;
+  border-radius: 10px;
+}
+
+.buttontwo,
+.calltitle {
+  font-weight: 700;
+}
+
+.calltitle {
+  font-size:30px;
+}
+
+.calltext {
+  font-size: 20px;
+}
+
+.buttontwo {
+  font-size: 20px;
+}
+
+
 
